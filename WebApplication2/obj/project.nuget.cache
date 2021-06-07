@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K0F2JSalu4NRUDu3/ySVirGynvrLFjKIB1bRl94DNjhFAUoP2IW0G8Q+VQOZvkqH0Ulkaaqgv0/1FJio6iIkkw==",
+  "dgSpecHash": "hump2p10b1aWtvcupE9FIpgq4ZS41uZH7T9L4y3+58p/C3MjSBfNNsilNTFyYQPi72JkXeuSuz13l6gFfp3Dzw==",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\Marcoratti\\VP.Projeto.HttpClient_Json-master\\WebApplication2\\VP.ApiSample.csproj",
+  "projectFilePath": "C:\\ProjetosGithub\\VP.ApiSample\\WebApplication2\\VP.ApiSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Douglas\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\Douglas\\.nuget\\packages\\microsoft.applicationinsights\\2.2.0\\microsoft.applicationinsights.2.2.0.nupkg.sha512",

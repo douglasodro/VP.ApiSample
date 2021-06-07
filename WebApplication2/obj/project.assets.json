@@ -10846,11 +10846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\Marcoratti\\VP.Projeto.HttpClient_Json-master\\WebApplication2\\VP.ApiSample.csproj",
+      "projectUniqueName": "C:\\ProjetosGithub\\VP.ApiSample\\WebApplication2\\VP.ApiSample.csproj",
       "projectName": "VP.ApiSample",
-      "projectPath": "C:\\Cursos\\Marcoratti\\VP.Projeto.HttpClient_Json-master\\WebApplication2\\VP.ApiSample.csproj",
+      "projectPath": "C:\\ProjetosGithub\\VP.ApiSample\\WebApplication2\\VP.ApiSample.csproj",
       "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\Marcoratti\\VP.Projeto.HttpClient_Json-master\\WebApplication2\\obj\\",
+      "outputPath": "C:\\ProjetosGithub\\VP.ApiSample\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config",
