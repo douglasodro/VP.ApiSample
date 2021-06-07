@@ -1,0 +1,25 @@
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.deps.json
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.runtimeconfig.json
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.runtimeconfig.dev.json
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.dll
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.pdb
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.csprojResolveAssemblyReference.cache
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.AssemblyInfo.cs
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.dll
+C:\Users\danruziska\Documents\Visual Studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.pdb
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\appsettings.Development.json
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\appsettings.json
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\bower.json
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\bundleconfig.json
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.deps.json
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.runtimeconfig.json
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.runtimeconfig.dev.json
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.dll
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\bin\Debug\netcoreapp1.1\VP.ApiSample.pdb
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.csprojAssemblyReference.cache
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.AssemblyInfoInputs.cache
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.AssemblyInfo.cs
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.csproj.CoreCompileInputs.cache
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.dll
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.pdb
+C:\Cursos\Marcoratti\VP.Projeto.HttpClient_Json-master\WebApplication2\obj\Debug\netcoreapp1.1\VP.ApiSample.genruntimeconfig.cache
